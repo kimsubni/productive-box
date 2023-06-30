@@ -13,5 +13,5 @@ jobs:
         uses: maxam2017/productive-box@master
         env:
           GH_TOKEN: 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
-          GIST_ID: https://gist.github.com/kimsubni
+          GIST_ID: https://gist.github.com/kimsubni/32ccd09e87a6945bf710468dbded7478
           TIMEZONE: Asia/Seoul
